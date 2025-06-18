@@ -4,7 +4,7 @@ Este proyecto utiliza una red neuronal convolucional basada en ResNet18 para cla
 
 ---
 
-##📁 Estructura esperada del dataset
+## 📁 Estructura esperada del dataset
 
 Coloca tus imágenes en una carpeta llamada img/.
 El nombre de cada imagen debe seguir un patrón que incluya _dX_, donde X representa la clase del ducto.
