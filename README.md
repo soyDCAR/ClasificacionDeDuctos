@@ -9,15 +9,16 @@ Este proyecto utiliza una red neuronal convolucional basada en ResNet18 para cla
 Coloca tus imágenes en una carpeta llamada img/.
 El nombre de cada imagen debe seguir un patrón que incluya _dX_, donde X representa la clase del ducto.
 
-Ejemplos de nombres válidos:
-img490_d2_o0_v2
-img102_d1_o1_v3
-Desglose del formato:
+### Ejemplos de nombres válidos:
+- img490_d2_o0_v2
+- img102_d1_o1_v3
 
-imgXXX: identificador único de la imagen
-_dX_: clase del ducto (por ejemplo, d2 indica clase 2)
-_oY_: número de ductos ocupados (Y)
-_vZ: número de ductos vacíos (Z)
+### Desglose del formato:
+
+- imgXXX: identificador único de la imagen
+- _dX_: clase del ducto (por ejemplo, d2 indica clase 2)
+- _oY_: número de ductos ocupados (Y)
+- _vZ: número de ductos vacíos (Z)
 
 
 ---
